@@ -1,2 +1,2 @@
-# technoo
-for technology
+# news
+for all news
